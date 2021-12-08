@@ -8,7 +8,7 @@
 
 ---
 
-### 사용 도구
+### 개발 도구
 > + Android Studio
 > + java
 
